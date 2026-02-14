@@ -182,13 +182,14 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Contato
 
-- **Email**: contato@controlefinanceiro.com
+- **Email**: fellipelima.ti@gmail.com
 - **Website**: https://controlefinanceiro.com
-- **LinkedIn**: [Seu Perfil](https://linkedin.com/in/seu-perfil)
+- **LinkedIn**: https://www.linkedin.com/in/fellipe-lima-de-jesus-958a2338a/
 
 ---
 
 <div align="center">
   <p>Feito com ❤️ para ajudar você a controlar suas finanças</p>
   <p>⭐ Se este projeto te ajudou, considere dar uma estrela!</p>
+
 </div>
